@@ -1,0 +1,434 @@
+canonical_identifier: bkk:krp/KR6r0139/T/v1
+canonical_location: https://kanripo.org/bkk/KR6r0139/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 集古今佛道論衡
+  identifiers:
+    krp: KR6r0139
+    cbeta: T52n2104
+    cbeta_old_id: T52n2104
+    authorityid: CA0001501
+    json_key: T2104
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T52/T52n2104.xml
+    old_id: T52n2104
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6r0139_000-T.yaml, hash: 'sha256:232b8984a4d76b3690a92454e5d8988316d002230ce1ae3676b128521c45885a'}
+  - {seq: 1, filename: KR6r0139_001-T.yaml, hash: 'sha256:0172c66a9d6909ec4121d959ef1de3de1987bf3ea4f4152c3650b3ee9b7b0913'}
+  - {seq: 2, filename: KR6r0139_002-T.yaml, hash: 'sha256:cd8ea36c083669a317df136353ec9ea8e0aeea68956c0a4a7487df37a25fb708'}
+  - {seq: 3, filename: KR6r0139_003-T.yaml, hash: 'sha256:afe72a410a2dc7a994118b2d3503eaa923b4beec2c7ea6ed610077872ead7a19'}
+  - {seq: 4, filename: KR6r0139_004-T.yaml, hash: 'sha256:6ac1cd1105954cb02b7526bb047ec7c66f6554b77c976b40c40b90bdb8fbb1ed'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6r0139_000-T.markers.yaml, hash: 'sha256:ec7a1a1927002f8c91082b705edd3d2fce8a0e2bbd9d4b68d000b280e7723fda'}
+  - {seq: 1, role: markers, filename: assets/KR6r0139_001-T.markers.yaml, hash: 'sha256:21203f9319957b4b250ba7e8f4c92f6509f6cc7aabb1522f17002d68d930ca46'}
+  - {seq: 2, role: markers, filename: assets/KR6r0139_002-T.markers.yaml, hash: 'sha256:2309b81c2dcda00a0f09bdde227e062d8c8b0f81535ccb5ffb79f9f450b295b9'}
+  - {seq: 3, role: markers, filename: assets/KR6r0139_003-T.markers.yaml, hash: 'sha256:8467c21a52e6057ff788b50c420f67d548ff4381c5bd2153080a556ef4811733'}
+  - {seq: 4, role: markers, filename: assets/KR6r0139_004-T.markers.yaml, hash: 'sha256:b629af22163bd2ea21f57c90953db0e71612861f34beaf6bd200deb3a012990a'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6r0139_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 集古今佛道論衡序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 10988
+  label: 集古今佛道論衡卷甲
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-1
+    span:
+    - body
+    - 169
+    - 169
+  label: 1 後漢明帝感夢金人騰蘭入雒諸道士等請求角試事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-2
+    span:
+    - body
+    - 1473
+    - 1473
+  label: 2 前魏時吳主崇重釋門為佛立塔寺因問三教優劣事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-3
+    span:
+    - body
+    - 2019
+    - 2019
+  label: 魏陳思王曹子建辯道論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-4
+    span:
+    - body
+    - 2944
+    - 2944
+  label: 晉孫盛撰聖賢同軌老聃非大賢論
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-5
+    span:
+    - body
+    - 3888
+    - 3888
+  label: 晉孫盛老子疑問反訊
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-6
+    span:
+    - body
+    - 5951
+    - 5951
+  label: 3 元魏君臨釋李雙信致有廢興故述其由事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-7
+    span:
+    - body
+    - 7182
+    - 7182
+  label: 4 宋太宗文皇帝集群臣論佛理治致太平事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-8
+    span:
+    - body
+    - 7814
+    - 7814
+  label: 5 魏明帝登極召沙門道士對論敘佛道先後事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-9
+    span:
+    - body
+    - 8530
+    - 8530
+  label: 6 梁高祖先事黃老後歸信佛下勅捨奉老子事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6r0139_T_001-mulu-10
+    span:
+    - body
+    - 9708
+    - 9708
+  label: 7 北齊高祖文宣皇帝下勅廢道教事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0139_T_002-juan-start
+    span:
+    - body
+    - 0
+    - 10834
+  label: 集古今佛道論衡卷乙
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0139_T_002-mulu-1
+    span:
+    - body
+    - 91
+    - 91
+  label: 8 周高祖武皇帝將滅佛法有安法師上論事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0139_T_002-mulu-2
+    span:
+    - body
+    - 3049
+    - 3049
+  label: 9 周武平齊大集僧徒問以興廢慧遠法師抗詔事(甲)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0139_T_002-mulu-3
+    span:
+    - body
+    - 4213
+    - 4213
+  label: 10 周高祖巡鄴除殄佛法有前僧任道林上表請開法事(乙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0139_T_002-mulu-4
+    span:
+    - body
+    - 9088
+    - 9088
+  label: 12 隋文帝詔為降州天火焚老君像事(乙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6r0139_T_002-mulu-5
+    span:
+    - body
+    - 10065
+    - 10065
+  label: 13 隋兩帝重佛宗法俱受歸戒事(乙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-juan-start
+    span:
+    - body
+    - 0
+    - 10689
+  label: 集古今佛道論衡卷丙
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-1
+    span:
+    - body
+    - 155
+    - 155
+  label: 14 大唐高祖問僧形服有何利益琳師奉對事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-2
+    span:
+    - body
+    - 1839
+    - 1839
+  label: 15 高祖幸國學當集三教問僧道是佛師事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-3
+    span:
+    - body
+    - 3667
+    - 3667
+  label: 16 道士李仲卿等造論毀佛法琳法師著辯正論以抗事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-4
+    span:
+    - body
+    - 3900
+    - 3900
+  label: 17 太宗下勅道先佛後僧等上諫事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-5
+    span:
+    - body
+    - 4878
+    - 4878
+  label: 18 皇太子集三教學者詳論事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-6
+    span:
+    - body
+    - 5928
+    - 5928
+  label: 19 太子中舍辛諝齊物論并淨琳二法師抗拒事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-7
+    span:
+    - body
+    - 7415
+    - 7415
+  label: 20 太宗文皇帝問沙門法琳交報顯應事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-8
+    span:
+    - body
+    - 8382
+    - 8382
+  label: 21 文帝幸弘福寺立願重施敘佛道先後事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-9
+    span:
+    - body
+    - 8932
+    - 8932
+  label: 22 太宗下勅以道士三皇經不足傳授令焚除事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6r0139_T_003-mulu-10
+    span:
+    - body
+    - 9442
+    - 9442
+  label: 23 文帝詔令奘法師翻老子為梵文事(丙)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-juan-start
+    span:
+    - body
+    - 0
+    - 13852
+  label: 集古今佛道論衡卷丁
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-1
+    span:
+    - body
+    - 296
+    - 296
+  label: 24 今上召佛道二宗入內詳述名理事(丁)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-2
+    span:
+    - body
+    - 1757
+    - 1757
+  label: 25 上以西明寺成功德圓滿佛僧創入榮泰所期又召僧道士入內殿躬御論場觀其義理事(丁)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-3
+    span:
+    - body
+    - 3148
+    - 3148
+  label: 26 帝以冬旱內立齋祀召佛道二宗論議事(丁)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-4
+    span:
+    - body
+    - 4766
+    - 4766
+  label: 27 上幸東都又召西京僧道士等往論事(丁)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-5
+    span:
+    - body
+    - 5357
+    - 5357
+  label: 28 今上在東都有洛邑僧靜泰勅對道士李榮敘道事(丁)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-6
+    span:
+    - body
+    - 7759
+    - 7759
+  label: 29 大慈恩寺沙門靈辯與道士對論(丁)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-7
+    span:
+    - body
+    - 10329
+    - 10329
+  label: 30 茅齋中與國學博士范贇談論(丁)
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-8
+    span:
+    - body
+    - 11194
+    - 11194
+  label: 集古今佛道論衡卷丁　續附
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-9
+    span:
+    - body
+    - 13587
+    - 13587
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6r0139_T_004-mulu-10
+    span:
+    - body
+    - 13587
+    - 13587
+  label: 集古今佛道論衡四卷重校序
+  type: mulu
+  level: 1
+hash: sha256:36e7e70b39699929d708bc58ecf9db843b15f1a061606cb1b3cea43219c1b682
