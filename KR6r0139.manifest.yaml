@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6r0139/v1
 canonical_location: https://kanripo.org/bkk/KR6r0139/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 集古今佛道論衡
   identifiers:
@@ -42,17 +42,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0139_000.yaml, hash: 'sha256:232b8984a4d76b3690a92454e5d8988316d002230ce1ae3676b128521c45885a'}
-  - {seq: 1, filename: KR6r0139_001.yaml, hash: 'sha256:0172c66a9d6909ec4121d959ef1de3de1987bf3ea4f4152c3650b3ee9b7b0913'}
-  - {seq: 2, filename: KR6r0139_002.yaml, hash: 'sha256:cd8ea36c083669a317df136353ec9ea8e0aeea68956c0a4a7487df37a25fb708'}
-  - {seq: 3, filename: KR6r0139_003.yaml, hash: 'sha256:afe72a410a2dc7a994118b2d3503eaa923b4beec2c7ea6ed610077872ead7a19'}
-  - {seq: 4, filename: KR6r0139_004.yaml, hash: 'sha256:6ac1cd1105954cb02b7526bb047ec7c66f6554b77c976b40c40b90bdb8fbb1ed'}
+  - {seq: 0, filename: KR6r0139_000.yaml, hash: 'sha256:5fe38849bfe4335751a938e1d2f6a40807708fdb44649ca409b078f403e96a97'}
+  - {seq: 1, filename: KR6r0139_001.yaml, hash: 'sha256:5326843f3a691724405c0d4fe3465fb5eaacf4dd60f3c43a6bdf7493babd4e8e'}
+  - {seq: 2, filename: KR6r0139_002.yaml, hash: 'sha256:d99fa04685b324dd4ea2285705df4bd455dee03da29363358999ab930a96677d'}
+  - {seq: 3, filename: KR6r0139_003.yaml, hash: 'sha256:6152cfa6df7596db0ded32c9b73bdf4979f53c44f78366a0a98a98c64a49b96b'}
+  - {seq: 4, filename: KR6r0139_004.yaml, hash: 'sha256:c78a6eb015a2eae7c0951208b266ad025803ddbdbb75307609f888d1bd4c8f9a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0139_000.markers.yaml, hash: 'sha256:9609bc57786e2d3fa9e63ce3c8506998c9e7546895e67e3bff3ee31a09fe30bc'}
-  - {seq: 1, role: markers, filename: assets/KR6r0139_001.markers.yaml, hash: 'sha256:dfb3afa65ae93afc3e034e3461409f5ce2ff9596d27397751eb81dc20b5f3e80'}
-  - {seq: 2, role: markers, filename: assets/KR6r0139_002.markers.yaml, hash: 'sha256:b131b20bfe795e352b043068da2a994a52fe6d2edefab7f4d9eeeeacf4d96e34'}
-  - {seq: 3, role: markers, filename: assets/KR6r0139_003.markers.yaml, hash: 'sha256:2afd1ffea5b810087b3f38f895671b8db30594922d92d3e4c2e2f9af36343fc7'}
-  - {seq: 4, role: markers, filename: assets/KR6r0139_004.markers.yaml, hash: 'sha256:0009baf6de90561c2aae37b70721c59e47dd04ec7053c7af2ca82292aa20774c'}
+  - {seq: 0, role: markers, filename: assets/KR6r0139_000.markers.yaml, hash: 'sha256:746fa45782004c766e2b32c71630b2e05e2e7dcb5b4f9def886c70fe3127d638'}
+  - {seq: 1, role: markers, filename: assets/KR6r0139_001.markers.yaml, hash: 'sha256:971d81260b1a594388d4374b339c9315d026866a829ff8195a54dd32aa76c92d'}
+  - {seq: 2, role: markers, filename: assets/KR6r0139_002.markers.yaml, hash: 'sha256:ee81663cc1525d0c77594d6078c3d8370bfc0bb4160a9fc1f0918fee75129b61'}
+  - {seq: 3, role: markers, filename: assets/KR6r0139_003.markers.yaml, hash: 'sha256:5446ab67d8909b4d8ef83620ca53c048eee02aefc59f6149b387139855910b8f'}
+  - {seq: 4, role: markers, filename: assets/KR6r0139_004.markers.yaml, hash: 'sha256:49597082a266042531a9940bb6292d5e166d428a9ae2b6cc46e70afc45e32b60'}
 table_of_contents:
 - ref:
     seq: 0
@@ -454,4 +454,7 @@ table_of_contents:
   label: 集古今佛道論衡四卷重校序
   type: mulu
   level: 1
-hash: sha256:82fe7df279fdb913dd31cafe07a48ef3a0d10f5f5c5ef2bd335d54a8593fc70a
+hash: sha256:2b78a56d04869353e515be7a45eee54cdb077da660ffb8e601da1657de5da649
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
