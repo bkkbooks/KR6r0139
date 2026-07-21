@@ -42,13 +42,13 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6r0139_000.yaml, hash: 'sha256:5fe38849bfe4335751a938e1d2f6a40807708fdb44649ca409b078f403e96a97'}
+  - {seq: 0, filename: KR6r0139_000.yaml, hash: 'sha256:d197553d48ca2858d1a303dc09d37a17eaa814c00a3fe5197e1e554e40d77d5d'}
   - {seq: 1, filename: KR6r0139_001.yaml, hash: 'sha256:5326843f3a691724405c0d4fe3465fb5eaacf4dd60f3c43a6bdf7493babd4e8e'}
   - {seq: 2, filename: KR6r0139_002.yaml, hash: 'sha256:d99fa04685b324dd4ea2285705df4bd455dee03da29363358999ab930a96677d'}
   - {seq: 3, filename: KR6r0139_003.yaml, hash: 'sha256:6152cfa6df7596db0ded32c9b73bdf4979f53c44f78366a0a98a98c64a49b96b'}
   - {seq: 4, filename: KR6r0139_004.yaml, hash: 'sha256:c78a6eb015a2eae7c0951208b266ad025803ddbdbb75307609f888d1bd4c8f9a'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6r0139_000.markers.yaml, hash: 'sha256:746fa45782004c766e2b32c71630b2e05e2e7dcb5b4f9def886c70fe3127d638'}
+  - {seq: 0, role: markers, filename: assets/KR6r0139_000.markers.yaml, hash: 'sha256:e57f111fdbf86430bb5c2cd4ee69295f62c5c348a1179086de19990447ac7ef4'}
   - {seq: 1, role: markers, filename: assets/KR6r0139_001.markers.yaml, hash: 'sha256:971d81260b1a594388d4374b339c9315d026866a829ff8195a54dd32aa76c92d'}
   - {seq: 2, role: markers, filename: assets/KR6r0139_002.markers.yaml, hash: 'sha256:ee81663cc1525d0c77594d6078c3d8370bfc0bb4160a9fc1f0918fee75129b61'}
   - {seq: 3, role: markers, filename: assets/KR6r0139_003.markers.yaml, hash: 'sha256:5446ab67d8909b4d8ef83620ca53c048eee02aefc59f6149b387139855910b8f'}
@@ -58,7 +58,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6r0139_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 集古今佛道論衡序
@@ -454,7 +454,7 @@ table_of_contents:
   label: 集古今佛道論衡四卷重校序
   type: mulu
   level: 1
-hash: sha256:2b78a56d04869353e515be7a45eee54cdb077da660ffb8e601da1657de5da649
+hash: sha256:4014d75dde369b5dd097fefd43c2606c5e92133b59715726970a695e6bca7198
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
